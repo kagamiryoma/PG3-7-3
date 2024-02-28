@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\danma\OneDrive\デスクトップ\PG3\PG3-7-3\main.cpp(16,17): warning C4244: '初期化中': '_Rep' から 'int' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\danma\OneDrive\デスクトップ\PG3\PG3-7-3\main.cpp(25,17): warning C4244: '初期化中': '_Rep' から 'int' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Rep=__int64
+          ]
+  PG3-7-3.vcxproj -> C:\Users\danma\OneDrive\デスクトップ\PG3\PG3-7-3\x64\Debug\PG3-7-3.exe
